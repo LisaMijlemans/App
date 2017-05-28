@@ -1,0 +1,72 @@
+{
+    "nieuws":
+    [
+      {
+          "titel": "Why the Hotel Saint-Marc is such a chic new Paris address",
+          "id": 3,
+          "datum": "22 June 2016",
+          "categorieen": ["TRAVEL"],
+          "tags": [" TRAVEL"," HOTEL"," ARCHITECTURE"],
+          "samenvatting": "Dimore Studio’s Emiliano Salci and Britt Moran, of one of the trendiest architectural firms around, are responsible for the discrete and refined interiors of the hotel Saint-Marc in Paris. We meet the pair as they discuss their inspirations and reflect on their latest venture.",
+          "body": "<p>Hoteliers Nadia Murano and Denis Nourry, who own the Petit-Moulin in the Marais, have now opened the Hotel Saint-Marc, just across from the Opéra-Comique in Paris. With Dimore Studio in charge of design, this new Paris address has a warm feel and strong Art Deco influences. With a mahogany and velvet interior, orange-toned Seventies fabrics and Asian-inspired screens, it is typical of the Milanese duo’s signature style, mixing modern and vintage for a harmonious aesthetic that is warm and welcoming. We take a tour with the designers.</p>",
+          "afbeeldingl": "hotel2.jpg",
+          "afbeeldings": "hotel.jpg"
+      },
+      {
+          "titel": "Italy Is Giving Away Castles (No, Really)",
+          "id": 6,
+          "datum": "17 May 2017",
+          "categorieen": ["LIVING"],
+          "tags": [" LIVING", " ITALY"],
+          "samenvatting": "If you’re anything like us, films like Breaking Away and Under the Tuscan Sun are what travel dreams are made of. But did you ever think that you could fulfill your cycling and villa remodeling fantasies in one fell swoop? Now, thanks to the Italian government, you actually can.",
+          "body": "<p>A new program, dubbed Cammini e Percorsi, which roughly translates to “paths and routes,” will allow people to apply to receive a historic castle or villa that has fallen into a state of disrepair. Typically, the available structures are off the beaten path of the traditional tourist circuit. In fact, many of them are on biking and pilgrimage routes. From the perspective of the Italian government, the program will both alleviate the overcrowding of popular cities like Venice and Florence, and allow for historic properties to be restored in a way that they would otherwise be unable to afford. In that sense, the efforts somewhat echo Fendi’s recent funding of the Trevi Fountain’s restoration, which resulted in the fashion house being able to use the destination to stage their anniversary show. However, when it comes to Cammini e Percorsi applicants, there are a couple catches. Building recipients are expected to make their structures accessible to the public, thereby increasing tourism. Additionally, Italy isn’t giving away these castles and villas ad infinitum. The leases will last nine years, with an option to extend the agreement for another nine years upon its expiration. However, truly stellar applications may end up receiving a 50-year lease instead. Unsurprisingly, the government is hoping to attract young entrepreneurs with this program, so if you’ve ever thought that you could start the next Airbnb, perhaps this is the springboard for you. The applications, which are already live, are due June 26.</p>",
+          "afbeeldingl": "kasteel2.jpg",
+          "afbeeldings": "kasteel.png"
+      },
+        {
+            "titel": "DIY: Kendall Jenner's 100% natural hair mask",
+            "id": 1,
+            "datum": "16 May 2017",
+            "categorieen": ["BEAUTY"],
+            "tags": [" BEAUTY"," HAIR"," DIY", " JENNER"],
+            "samenvatting": "What would you say if we told you that 3 simple ingredients were all that you needed to achieve your dream mane? Kendall Jenner has just revealed the recipe for her homemade hair mask and the simplicity will thrill you.",
+            "body": "<p>After revealing her speedy 11-minute workout routine, Kendall Jenner has revealed on the site TheZoeReport.com her top tip for perfect locks. Her homemade recipe is simple: mash a ripe avocado and a banana ten mix in two table spoons of coconut oil. Cover hair with the mixture, avoiding the roots and leaving it on for 30 minutes. The avocado nourishes the hair while the coconut oil heightens the shine and the banana guarantees silky locks. Once rinsed with water, the result is a shiny mane full of life and volume.</p>",
+            "afbeeldingl": "Kendall1.jpg",
+            "afbeeldings": "kendall3.png"
+        },
+        {
+            "titel": "Beauty crush: Chanel launches 3 mini gel perfumes",
+            "id": 2,
+            "datum": "15 May 2017",
+            "categorieen": ["BEAUTY"],
+            "tags": [" BEAUTY"," PERFUME", " CHANEL"],
+            "samenvatting": "Say goodbye to bottled fragrances. Chanel is changing things up and releasing its iconic Chance fragrance in three transportable gels.",
+            "body": "<p>Chanel has just released Chance, its cult fragrance, in a gel formula that melts onto skin in an instant. Sealed in small pots, the pastel-colored trio follows the star fragrance’s olfactory and poetic codes, with notes of musk and grapefruit from Chance Eau Tendre, floral and bubbly jasmine notes from Chance Eau Fraîche and the earthy Chance Eau Vivre version. The new perfumes contain sparkling particles that bring a glow to everything they touch, and are a must-have if you want to refresh your fragrance during a long day. <span>Chance Three Moods, Chanel, 3 x 5g, 69 €, limited edition</span></p>",
+            "afbeeldingl": "Chanel.jpg",
+            "afbeeldings": "Chanel2.png"
+        },
+        {
+            "titel": "Dior: Savage Beauty in a Californian Canyon",
+            "id": 4,
+            "datum": "12 May 2017",
+            "categorieen": ["FASHION"],
+            "tags": [" FASHION", " DIOR"],
+            "samenvatting": "Maria Grazia Chiuri channels the Lascaux cave paintings, Georgia O’Keeffe, and a feminist shamanic healer to give depth to her Cruise collection.",
+            "body": "<p>Four giant spheres on the California skyline included the burning sunset, the moon rising, and twin hot air balloons announcing “Dior Sauvage”. There was indeed something savage about this Dior Cruise 2018 collection, held on the top of a canyon, with dusty tents, pillows for seating, and Rihanna wrapped in furs. The runway and its models in their parson’s hats and prairie skirts seemed more Wild West than Rodeo Drive, where Dior has its glamorous Los Angeles store. But designer Maria Grazia Chiuri revealed an inspiration that was from even further back, at the dawn of civilisation: the prehistoric wall paintings in the Lascaux caves in southwestern France. “Christian Dior was fascinated by the discovery of these primitive sketches and he used the graphics in 1951 for a collection,” explained Maria Grazia, who was drawn to these ancient historical symbols, showing them on straw, jacquard, knits and silk.</p>",
+            "afbeeldingl": "chiuri2.jpg",
+            "afbeeldings": "chiuri.jpg"
+        },
+        {
+            "titel": "Pippa Middleton Reportedly Has an Unusual (and Slightly High-Maintenance) Rule for Her Wedding Guests",
+            "id": 5,
+            "datum": "10 May 2017",
+            "categorieen": ["LIVING","ROYALTY"],
+            "tags": [" LIVING"," ROYALTY"," MIDDLETON"],
+            "samenvatting": "Here’s a new one: Pippa Middleton has reportedly asked guests to pack two outfits for her May 20 nuptials.",
+            "body": "<p>Here’s a new one: Pippa Middleton has reportedly asked guests to pack two outfits for her May 20 nuptials. One, apparently, is to wear to the ceremony, while the other will be to change into for the reception. The request—or rule, depending on how exactly the invitation was phrased—would be a pretty unusual move. It’s also a pretty high-maintenance thing to ask of your guests, many of whom will be traveling to the area, and all of whom will likely be stressed over what to wear. So, why exactly would a bride do this? There are a range of possibilities. Middleton’s wedding will take place in a church (in England, marriages legally can’t take place just anywhere), while her reception will be held at her parents’ home. Perhaps the Middleton-Matthews pair were thinking of their guests’ comfort at an indoor-outdoor reception? A country estate’s surrounding grounds can, of course, grow quite chilly. There’s also the chance that the events have different dress codes. Or maybe the reception has its own theme. Middleton is, after all, something of a party-planning expert, so it wouldn’t be completely out of character for her to go above and beyond for her own special day. However, the main question that all of us should probably be asking is: Will this snowball into a full-blown trend? As is true with this specific wedding as well, only time will tell.</p>",
+            "afbeeldingl": "pippa.jpg",
+            "afbeeldings": "pippa2.jpg"
+        }
+
+    ]
+}
