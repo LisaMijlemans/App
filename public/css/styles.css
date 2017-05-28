@@ -96,3 +96,11 @@ section{
 .categ a{
   color: goldenrod;
 }
+.samenvatting{
+  margin-top: 4%;
+}
+.datum{
+  font-size: 0.85em;
+  margin-bottom: 2%;
+  margin-top: 1%;
+}
